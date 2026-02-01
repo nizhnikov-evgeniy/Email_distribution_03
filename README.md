@@ -1,1 +1,1 @@
-# Email_distribution_03
+# Lesson 3. We send out emails
