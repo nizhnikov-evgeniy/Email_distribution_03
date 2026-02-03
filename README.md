@@ -1,1 +1,1 @@
-# Lesson 3. We send out emails
+# Python basics. Lesson 3. We send out emails
